@@ -1,19 +1,7 @@
-# flash-cards
+# Computer Science Flash Cards - Front End Edition
 
-## Project setup
-```
-npm install
-```
+A Vue.js front-end for John Washam's flash cards database.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- https://github.com/jwasham/computer-science-flash-cards
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thanks to [@jwasham](https://github.com/jwasham) for open sourcing the flash cards.
